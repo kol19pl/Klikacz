@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">唱首歌</string>
+    <string name="resetuj_licznik">重置计数器</string>
+    <string name="pop_up_zamykanie">再次单击以关闭。</string>
+    <string name="action_settings">设定值</string>
+</resources>

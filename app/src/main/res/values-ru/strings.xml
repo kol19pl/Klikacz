@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Кликер</string>
+    <string name="action_settings">Настройки</string>
+    <string name="pop_up_zamykanie">Щелкните еще раз, чтобы закрыть.</string>
+    <string name="resetuj_licznik">Сбросить счетчик</string>
+</resources>
